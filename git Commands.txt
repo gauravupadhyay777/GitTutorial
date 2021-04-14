@@ -1,0 +1,18 @@
+Git Commands
+
+1- git status - shows the status if the folder in .git or not or git repository or not
+2- git init - initializes empty git repositories or in simple words makes a folder git repository
+3- git add --a - adds all the files to staging area of the git
+4- git add filename.extension - adds only that file to the staging area
+5- git commit -m "any message" - commits staged files into the git server
+6- git log - shows the commits with name email and timing
+7- git - shows if git is installed or not
+8- git config --global user.name "username" - adds the new users name.
+9- git config --global user.email "emailId" - adds the new users emailId.
+10- git config --li - shows the list of everything inside git with your username and email.
+11- git config user.name - shows the username
+12- git config user.email - shows the userEmailId.
+13- rm -rf .git - removes the folder as a git respository
+14- git clone link "name of the folder you wanna give" - clones someone elses git folder into yours and you
+can give it any name you want.
+15- 
