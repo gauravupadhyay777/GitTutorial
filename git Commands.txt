@@ -16,3 +16,5 @@ Git Commands
 14- git clone link "name of the folder you wanna give" - clones someone elses git folder into yours and you
 can give it any name you want.
 15- touch filename.ex - generates a new empty file
+16- touch .gitignore- generates a new gitignore file
+17- add log file name into .gitignore to ignore the file from staging and tracking
