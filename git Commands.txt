@@ -15,4 +15,4 @@ Git Commands
 13- rm -rf .git - removes the folder as a git respository
 14- git clone link "name of the folder you wanna give" - clones someone elses git folder into yours and you
 can give it any name you want.
-15- 
+15- touch filename.ex - generates a new empty file
