@@ -18,3 +18,4 @@ can give it any name you want.
 15- touch filename.ex - generates a new empty file
 16- touch .gitignore- generates a new gitignore file
 17- add log file name into .gitignore to ignore the file from staging and tracking
+18- add *.log to ignore all the log files
