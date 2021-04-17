@@ -21,3 +21,5 @@ can give it any name you want.
 18- add *.log to ignore all the log files
 19- dir/ or folder name to ignore the complete folder
 20- /dir/ to ignore only the outer folder
+21- git diff compares files in working directory with the files in the staging area
+22- git diff --staged compares files in staging area with files last commited 
