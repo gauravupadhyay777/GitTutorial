@@ -1,4 +1,0 @@
-commit 2
-another 
-new
-ned
