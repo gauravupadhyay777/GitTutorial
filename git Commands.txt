@@ -27,4 +27,5 @@ can give it any name you want.
 files that are untracked wont go to the commit.
 24- git rm filename removes and stages the file.
 25- git mv filename newfilename renames the file and adds it to the staging area
+26- git rm --cached filename untracks the file so it wont show after updating after ignoring
 
