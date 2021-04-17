@@ -23,3 +23,4 @@ can give it any name you want.
 20- /dir/ to ignore only the outer folder
 21- git diff compares files in working directory with the files in the staging area
 22- git diff --staged compares files in staging area with files last commited 
+23- git commit -a -m "message" commites file directly without sending it first to the staging area
