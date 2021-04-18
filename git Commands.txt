@@ -29,5 +29,5 @@ files that are untracked wont go to the commit.
 25- git mv filename newfilename renames the file and adds it to the staging area
 26- git rm --cached filename untracks the file so it wont show after updating after ignoring
 27- git log -p shows the difference between commited files
-
+28- git log -p -n shows the difference between n number of commited files
 
