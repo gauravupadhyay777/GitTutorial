@@ -30,4 +30,13 @@ files that are untracked wont go to the commit.
 26- git rm --cached filename untracks the file so it wont show after updating after ignoring
 27- git log -p shows the difference between commited files
 28- git log -p -n shows the difference between n number of commited files
+29- git log --stat shows a small summary of the commits.
+30- git log --pretty=oneline shows all the commits in one line.
+31- git log --pretty=short shows all the commits in a short manner
+32- git log --pretty=full shows a lil more than the short command
+33- git log --since=.2days,weeks,months,years shows the commits that happened in that time frame
+34- git log --pretty=format:"%h -- %ae/an" shows the commit code and author's email/name.
+35- git commit --amend you can use this command to merge 2 commits 
+
+
 
