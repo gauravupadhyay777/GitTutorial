@@ -38,5 +38,8 @@ files that are untracked wont go to the commit.
 34- git log --pretty=format:"%h -- %ae/an" shows the commit code and author's email/name.
 35- git commit --amend you can use this command to merge 2 commits 
 36- git restore --staged filename to unstage a staged file
-37- git checkout -- filename kinda undo's the file itself and restores it to the previous version
+37- git checkout -- filename kinda undo's the file itself and restores it to the previous version but only if
+the file is unstaged.
+38- git checkout -f reverts the whole directory back to the last commit
+
 
