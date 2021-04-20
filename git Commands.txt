@@ -37,6 +37,7 @@ files that are untracked wont go to the commit.
 33- git log --since=.2days,weeks,months,years shows the commits that happened in that time frame
 34- git log --pretty=format:"%h -- %ae/an" shows the commit code and author's email/name.
 35- git commit --amend you can use this command to merge 2 commits 
+36- git restore --staged filename to unstage a staged file
 
 
 
