@@ -39,5 +39,3 @@ files that are untracked wont go to the commit.
 35- git commit --amend you can use this command to merge 2 commits 
 36- git restore --staged filename to unstage a staged file
 
-
-
